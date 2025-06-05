@@ -62,9 +62,9 @@ Conecte os sensores e dispositivos conforme o esquema abaixo.
 Este projeto foi desenvolvido por estudantes de Ciência da Computação, com foco em acessibilidade e inovação educacional.
 
 Breno, João Henrique, João Gomes — Desenvolvimento de Hardware
-Breno, João Henrique, João Gomes, Leticia, Ana Clara — Narrativa e Design do Jogo
-Julio e Emilia, Igor — Libras e Acessibilidade
-Breno, João Henrique, João Gomes, Leticia, Ana Clara, Julio, Emilia, Igor — Documentação e Testes
+Breno, João Henrique, João Gomes, Leticia, Ana Clara — Narrativa e Design do Jogo\n
+Julio e Emilia, Igor — Libras e Acessibilidade\n
+Breno, João Henrique, João Gomes, Leticia, Ana Clara, Julio, Emilia, Igor — Documentação e Testes\n
 ## 📜 Licença
 Este projeto está licenciado sob a MIT License.
 
