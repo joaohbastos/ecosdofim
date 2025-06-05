@@ -15,12 +15,12 @@ Arduino IDE,
 Programação em C++,
 Modelagem de narrativa e missões
 ## 🔌 Hardware
-Arduino MEGA
-Módulo leitor RFID (PN532)
-Cartões RFID (para representar personagens, itens ou comandos)
-LEDs (sinalizações visuais)
-Sensores de toque ou botão
-Protoboard e jumpers
+Arduino MEGA,
+Módulo leitor RFID (PN532),
+Cartões RFID (para representar personagens, itens ou comandos),
+LEDs (sinalizações visuais),
+Sensores de toque ou botão,
+Protoboard e jumpers,
 Alimentação via cabo USB ou power bank
 ## 📦 Materiais do Tabuleiro
 Tabuleiro físico impresso
