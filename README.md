@@ -60,6 +60,7 @@ Conecte os sensores e dispositivos conforme o esquema abaixo.
 |3.3V|	VCC|
 ## 👥 Equipe
 Este projeto foi desenvolvido por estudantes de Ciência da Computação, com foco em acessibilidade e inovação educacional.
+
 Breno, João Henrique, João Gomes — Desenvolvimento de Hardware
 
 Breno, João Henrique, João Gomes, Leticia, Ana Clara — Narrativa e Design do Jogo
