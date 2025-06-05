@@ -11,8 +11,8 @@ Criar um ambiente acessível onde pessoas com e sem deficiência auditiva possam
 Integrar hardware interativo (como sensores e RFID) com um tabuleiro físico para enriquecer a experiência.
 ## ⚙️ Tecnologias e Materiais Utilizados
 💻 Software
-Arduino IDE
-Programação em C++
+Arduino IDE,
+Programação em C++,
 Modelagem de narrativa e missões
 ## 🔌 Hardware
 Arduino MEGA
